@@ -4,6 +4,7 @@
 
     <form action="../task_2/index2.php"  method="post" enctype="multipart/form-data">
 
+      <div></div>
         <div class="col-xs-6 form-group">
           <label class="control-label col-xs-6" for="name">name:</label>
           <div class="col-xs-6">
